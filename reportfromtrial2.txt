@@ -1,0 +1,34 @@
+Info: Processing symbol 'D1:LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder'.
+Info: Processing symbol 'J1:Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0612_1632Metric_Pad1.18x3.40mm_HandSolder'.
+Added D1 (footprint 'LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder to LED.
+Updated D1 symbol association from  to /e75a2696-14aa-4892-a368-a59f14fdb664.
+Updated D1 properties.
+Add net Net-(D1-K).
+Connected D1 pin 1 to Net-(D1-K).
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Added J1 (footprint 'Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA').
+Changed REF** reference designator to J1.
+Changed J1 value from Panasonic_EVQPUJ_EVQPUA to Barrel_Jack_Switch.
+Updated J1 symbol association from  to /d9da7466-7e88-462c-9ff2-bae04460cd08.
+Updated J1 properties.
+Connected J1 pin 1 to Net-(D1-A).
+Connected J1 pin 1 to Net-(D1-A).
+Add net unconnected-(J1-Pad2).
+Connected J1 pin 2 to unconnected-(J1-Pad2).
+Connected J1 pin 2 to unconnected-(J1-Pad2).
+Added R1 (footprint 'Resistor_SMD:R_0612_1632Metric_Pad1.18x3.40mm_HandSolder').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0612_1632Metric_Pad1.18x3.40mm_HandSolder to R_Small.
+Updated R1 symbol association from  to /ef3a990e-fce4-4d2c-875a-7f59ef1b940f.
+Updated R1 properties.
+Add net Net-(J1-Pad3).
+Connected R1 pin 1 to Net-(J1-Pad3).
+Connected R1 pin 2 to Net-(D1-K).
+Error: J1 pad 3 not found in Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA.
+
+
+Info: Total warnings: 0, errors: 1.
