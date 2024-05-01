@@ -1,5 +1,7 @@
 ## Summary
 
+HOMEWORK 2
+
 This repository is the outcome of my practice in designing PCBs.  
 Here, I document the various evolutionary stages of my project.
 I am practicing schematic and PCB designing using KiCad.
