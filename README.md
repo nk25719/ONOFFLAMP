@@ -2,6 +2,7 @@
 
 This repository is the outcome of my practice in designing PCBs.  
 Here, I document the various evolutionary stages of my project.
+I am practicing schematic and PCB designing using KiCad.
 
 <img width="400" alt="Screenshot 2024-04-06 151121" src="https://github.com/nk25719/ONOFFLAMP/assets/133608369/4f559c2a-d1c1-4874-9b97-0806d0d4057a">  
   
